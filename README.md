@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/siddharthsingh49/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/siddharthsingh49/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/siddharthsingh49/Leetcode/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/siddharthsingh49/Leetcode/tree/master/0739-daily-temperatures) |
 ## Two Pointers
 |  |
 | ------- |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/siddharthsingh49/Leetcode/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/siddharthsingh49/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/siddharthsingh49/Leetcode/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/siddharthsingh49/Leetcode/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/siddharthsingh49/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/siddharthsingh49/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Bracket Sequences
@@ -142,4 +144,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/siddharthsingh49/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/siddharthsingh49/Leetcode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
